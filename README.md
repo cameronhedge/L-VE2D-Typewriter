@@ -2,4 +2,4 @@
 
 This is a simple typewriter class that works with Matthias Richter's 'Class' module within Hump.
 
-[title](https://www.example.com)
+[Link to Hump Module](https://github.com/vrld/hump)
