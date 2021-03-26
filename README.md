@@ -5,3 +5,7 @@ This is a simple typewriter class that works with Matthias Richter's 'Class' mod
 [Link to Hump Module](https://github.com/vrld/hump)
 
 ## Typewriter (xpos, ypos, text, width, linespacing, font)
+
+Creates text just like normal within the LOVE2D window however it is displayed as if written on a typewriter.
+
+### Parameters
