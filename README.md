@@ -29,3 +29,7 @@ Creates text just like normal within the LOVE2D window however it is displayed a
 * *Font Object* **Font**
 
   Required text font.
+
+### Example
+
+`Typewriter(10, 20, "This is a typewriter test.", 100, 15)`
