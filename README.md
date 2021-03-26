@@ -34,6 +34,13 @@ Creates text just like normal within the LOVE2D window however it is displayed a
 
 `typewriter = Typewriter(10, 20, "This is a typewriter test.", 100, 15)`
 
+### Delay characters
+Certain 'special' characters will temporarily slow the speed at which the typewriter is writing. These are:
+* '**.**'
+
+  Delays by 2 milliseconds.
+
+
 ### Writing to Screen
 
 The typewriter can then be drawn on the screen using the familiar update and render methods.
