@@ -42,9 +42,9 @@ The typewriter can then be drawn on the screen using the familiar update and ren
 love.update(dt)
   typewriter:update(dt)
 end
-
+```
+```
 love.draw()
   typewriter:render()
 end
-
 ```
