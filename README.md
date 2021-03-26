@@ -36,10 +36,8 @@ Creates text just like normal within the LOVE2D window however it is displayed a
 
 ### Delay characters
 Certain 'special' characters will temporarily slow the speed at which the typewriter is writing. These are:
-* '**.**'
-
-  Delays by 2 milliseconds.
-
+* '**.**'  Delays by 2 milliseconds.
+* '**,**'  Delays by 2 milliseconds.
 
 ### Writing to Screen
 
