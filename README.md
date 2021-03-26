@@ -4,4 +4,4 @@ This is a simple typewriter class that works with Matthias Richter's 'Class' mod
 
 [Link to Hump Module](https://github.com/vrld/hump)
 
-# Typewriter (xpos, ypos, text, width, linespacing, font)
+## Typewriter (xpos, ypos, text, width, linespacing, font)
