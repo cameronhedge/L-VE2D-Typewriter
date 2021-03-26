@@ -9,3 +9,5 @@ This is a simple typewriter class that works with Matthias Richter's 'Class' mod
 Creates text just like normal within the LOVE2D window however it is displayed as if written on a typewriter.
 
 ### Parameters
+
+* Number
