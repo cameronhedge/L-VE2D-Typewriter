@@ -32,4 +32,19 @@ Creates text just like normal within the LOVE2D window however it is displayed a
 
 ### Example
 
-`Typewriter(10, 20, "This is a typewriter test.", 100, 15)`
+`typewriter = Typewriter(10, 20, "This is a typewriter test.", 100, 15)`
+
+### Writing to Screen
+
+The typewriter can then be drawn on the screen using the familiar update and render methods.
+
+```
+love.update(dt)
+  typewriter:update(dt)
+end
+
+love.draw()
+  typewriter:render()
+end
+
+```
